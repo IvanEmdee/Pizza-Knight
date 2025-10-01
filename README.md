@@ -13,7 +13,7 @@ This repo contains our work on the two-person game development projects for Game
 ## Game Description
 
 The game will be a mix of a pizza making mini game and an action platformer. It will be split into two phases, phase one is timed and will be about making pizzas which you will use as your weapon. Phase two will be the
-action platformer where you need to defeat the enemies. The goal is to make pizzas as fast as you can in phase 1 so you have enough "ammo" to win in phase two.
+action platformer where you need to defeat the enemies and gather more ingredients for pizza making. The ingredients you pick up in phase 2 will allow you to make more advanced pizza with unique effects in phase 1. The goal is to make pizzas as fast as you can in phase 1 so you have enough "ammo" to defend yourself in phase 2.
 
 ## Important Links
 
