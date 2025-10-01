@@ -1,7 +1,7 @@
 # Pizza Knight - Fall 2025
 
-Pizza Knight is a 2d action platformer game where the player goes around using their pizza making skills to defeat enemies to defend the kingdom. If the player fails, 
-the kingdom falls there will be no more pizza left in the world.
+Pizza Knight is a 2d action platformer game where the player goes around using their pizza making skills to defeat the rats to defend the kingdom. If the player fails, 
+the kingdom falls and the rats will eat all the pizza.
 
 This repo contains our work on the two-person game development projects for GameDev.
 
