@@ -1,16 +1,14 @@
-# Elevator Wipeout - Sidecars and PBRs - Fall 2024
+# Pizza Knight - Fall 2025
 
-Elevator Wipeout is a save-the-world game where the player does all they can to prevent bad guys from destroying a space elevator.  If the bad guys win, the earth
-is destroyed in a spectacular, slow-motion extravaganza.
+Pizza Knight is a 2d action platformer game where the player goes around using their pizza making skills to defeat enemies to defend the kingdom. If the player fails, 
+the kingdom falls there will be no more pizza left in the world.
 
-This repo contains our work on the four-person game development projects for GameDev.
+This repo contains our work on the two-person game development projects for GameDev.
 
 ## Authors
 
-- John Leonard (jdleonard@vcu.edu)
-- Jason Bennett (jebennett@vcu.edu)
-- Skippy McBoatface (skippy@mcboatface.com)
-- MF Broom (mfbroom@rva.com)
+- Ivan Emdee (emdeein@vcu.edu)
+- Fen Bryant (bryantca4@vcu.edu)
 
 ## Game Description
 
