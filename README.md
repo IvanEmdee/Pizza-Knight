@@ -12,15 +12,15 @@ This repo contains our work on the two-person game development projects for Game
 
 ## Game Description
 
-Provide more details of the game.  Discuss any unique game play features.  Why is
-this game different from others?  What is the goal for playing?
+The game will be a mix of a pizza making mini game and an action platformer. It will be split into two phases, phase one is timed and will be about making pizzas which you will use as your weapon. Phase two will be the
+action platformer where you need to defeat the enemies. The goal is to make pizzas as fast as you can in phase 1 so you have enough "ammo" to win in phase two.
 
 ## Important Links
 
 - Game URL: < ... >
 - GITHUB URL: < ... >
-- Gameplay Video URL: < ... >
-- Google Doc writeup: < ... >
+- Gameplay Video URL: < tbd >
+- Google Doc writeup: < [...](https://docs.google.com/document/d/1vsI01QuD9VK1fwvos-tI67rkn_9tqzkglIxqePkIwEk/edit?usp=sharing) >
 
 ## Files in the repository
 
