@@ -18,7 +18,7 @@ action platformer where you need to defeat the enemies. The goal is to make pizz
 ## Important Links
 
 - Game URL: < ... >
-- GITHUB URL: < ... >
+- GITHUB URL: < [Link to the Repo](https://github.com/IvanEmdee/Pizza-Knight.git) >
 - Gameplay Video URL: < tbd >
 - Google Doc writeup: < [Pizza Knight Storyboard and Features](https://docs.google.com/document/d/1vsI01QuD9VK1fwvos-tI67rkn_9tqzkglIxqePkIwEk/edit?usp=sharing) >
 
